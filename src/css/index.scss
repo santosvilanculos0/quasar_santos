@@ -1,0 +1,14 @@
+// app global css in SCSS form
+
+a,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+  display: block;
+  vertical-align: middle;
+  height: auto;
+}
